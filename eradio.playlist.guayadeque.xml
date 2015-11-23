@@ -1,0 +1,2587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RadioStations>
+    <RadioStation>
+        <Url>http://50.7.243.50:8082</Url>
+        <Name>Radio Patata</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://188.40.131.14:8004</Url>
+        <Name>Space FM 107</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://176.9.35.49:9875</Url>
+        <Name>DJ Vasilis WebRadio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://78.129.142.4:8264</Url>
+        <Name>Kapsimi WR</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/radio10</Url>
+        <Name>Radio 10</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.121.133:8144</Url>
+        <Name>Dynamic Web Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8201</Url>
+        <Name>Existon Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.115.44:9178</Url>
+        <Name>Starwalkers New Generation</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://94.75.200.140/melody</Url>
+        <Name>Melody Fm 98,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s5.onweb.gr:8506</Url>
+        <Name>Traffic FM 91,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/myradionet</Url>
+        <Name>My Radio 89,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://media.on.net/radio/51.m3u</Url>
+        <Name>Radio ENA 87,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8824</Url>
+        <Name>Party 97,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://avantifm.live24.gr/avantifm</Url>
+        <Name>Avanti Fm 107,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://shout.streamwithq.gr:4126</Url>
+        <Name>Kiss 107</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://174.142.32.91:9200</Url>
+        <Name>Radio Πάτρα 106,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8086</Url>
+        <Name>Kappa Radio 87,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/karpenisi</Url>
+        <Name>Ράδιο Καρπενήσι 97,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://ams01.egihosting.com:4240</Url>
+        <Name>Noise Radio 97,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://musicradio.mediabox.gr/musicradio</Url>
+        <Name>MusicRadio.Gr</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://96.30.20.193:8008</Url>
+        <Name>Moreradio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/ant1south</Url>
+        <Name>Antenna Ν.Ελλάδας 97,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://streamx2.greekradios.gr:8000</Url>
+        <Name>Republic 100,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://5.175.8.84:8050</Url>
+        <Name>Ελληνικό Ράδιο Ομογένειας 2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://173.236.59.82:8060</Url>
+        <Name>Ράδιο Ροδόπη 95,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://69.175.13.130:8060</Url>
+        <Name>Ράδιο Ξυλαγανή</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/radiovelika</Url>
+        <Name>Radio Βελίκα 92,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/akousgazi</Url>
+        <Name>Akous. Gazi</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/akousstage</Url>
+        <Name>Akous. Edgar's Stage</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/akousdeluxe</Url>
+        <Name>Akous.Domotel Deluxe</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/akous80s</Url>
+        <Name>Akous. 80s</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s4.onweb.gr:8404</Url>
+        <Name>Kral FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://62.103.31.151:8000</Url>
+        <Name>Ράδιο Πρωϊνή 93,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8168</Url>
+        <Name>RadioIn Λαϊκό</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://starradio.no-ip.biz:2380</Url>
+        <Name>Star Radio 107,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://liveradio.energy966.com:8008</Url>
+        <Name>Radio Energy 96,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://78.46.66.215:8007</Url>
+        <Name>Dalkas 88,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream2.greekradios.gr:8012</Url>
+        <Name>Ελλάδα FM 98,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://91.132.6.21:8005</Url>
+        <Name>Λάμψη 92,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://174.36.237.66:8220</Url>
+        <Name>Ρυθμός Fm 103,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://metro903.live24.gr/metro903-1000</Url>
+        <Name>Metro Fm 90,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8107</Url>
+        <Name>Καστοριά Fm 91,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://rs2.radiostreamer.com/radioalfa</Url>
+        <Name>Αλφα 104</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/lihnari</Url>
+        <Name>Λυχνάρι 91,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://livecy.onestreaming.com/starfmcy</Url>
+        <Name>Star Fm</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.1045.gr/1045fm/</Url>
+        <Name>Ρυθμός 104,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://hotmedia.gr:8086/magicfm</Url>
+        <Name>Magic Fm 98,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/hxofm</Url>
+        <Name>Ηχώ Fm 99,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://hotmedia.gr:8086/teamfm</Url>
+        <Name>Team Fm 102</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://streaming.radionomy.com/TrapFm</Url>
+        <Name>Trap Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://5.9.15.53:9996</Url>
+        <Name>Rockarolla Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://85.17.30.90:9986</Url>
+        <Name>Ηχόραμα Radio 100,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8040</Url>
+        <Name>Radio Ριζίτες 92,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://78.47.56.126:8032</Url>
+        <Name>Radio Σαμοθράκη 101,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://174.36.20.51:9380</Url>
+        <Name>Κρητικόραμα FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream-push2.live24.gr/sky1007</Url>
+        <Name>Sky Fm 100,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8012</Url>
+        <Name>Top Fm 106,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://50.7.184.106:8900</Url>
+        <Name>Sin Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8083</Url>
+        <Name>Sunshine Fm 107,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://46.4.8.222:9998</Url>
+        <Name>Octava Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://70.38.101.150:8004</Url>
+        <Name>Diva Radio 91,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://captainjack.live24.gr/captainjack9660</Url>
+        <Name>Pepper 96,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://72.55.146.84:8002</Url>
+        <Name>Ερωτικό 99,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/elladaradio</Url>
+        <Name>Ελλάδα Fm 96,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8852</Url>
+        <Name>Κρητικός 88,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://a999.l3271920998.c32719.g.lm.akamaistream.net/D/999/32719/v0001/reflector:20998</Url>
+        <Name>ΕΡΑ Φωνή της Ελλάδας</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://a1113.l3271935112.c32719.g.lm.akamaistream.net/D/1113/32719/v0001/reflector:35112</Url>
+        <Name>ΕΡΑ Σπορ 101,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://radiogold.live24.gr/radiogold</Url>
+        <Name>Radio Gold</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://flash.live24.gr/flash5252</Url>
+        <Name>Flash 96</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://a1709.l3271943708.c32719.g.lm.akamaistream.net/D/1709/32719/v0001/reflector:43708</Url>
+        <Name>ΕΡΑ ΝΕΤ 105,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8091</Url>
+        <Name>Ράδιο Συχνότητα 100,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s5.onweb.gr:8070</Url>
+        <Name>Κρήτη Fm 100,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://78.46.46.214:7054</Url>
+        <Name>Ραδιοφωνία Τριφυλίας 101,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://46.4.65.194:8015</Url>
+        <Name>Galaxy 106,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://www.streamyourdream.org:8012/kiss98</Url>
+        <Name>Kiss 98</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://66.90.103.144:8992</Url>
+        <Name>Life Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8257</Url>
+        <Name>Radio Star 95,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8209</Url>
+        <Name>Cool Fm 106,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://www.radiodistomo.gr:9420</Url>
+        <Name>ΡΑΔΙΟ ΔΙΣΤΟΜΟ 106,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://legacy-100-ams.servers.mediacdn.com/mfm102-7-patra</Url>
+        <Name>Mfm 102,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8020</Url>
+        <Name>Ράδιο Παρατηρητής 94</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/cosmos965</Url>
+        <Name>Κόσμος 96,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://204.45.6.58:8081</Url>
+        <Name>Kiss Danceradio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://81.4.144.146:8000/live</Url>
+        <Name>Capital FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8034</Url>
+        <Name>Ράδιο Μοίρες</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8048</Url>
+        <Name>Music Club 105,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://m2.onweb.gr/amorefm</Url>
+        <Name>Amore Fm 107,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s4.onweb.gr:8414</Url>
+        <Name>Media 92</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://streaming.radionomy.com/RedDancerRadio</Url>
+        <Name>Red Dancer Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s4.myradiostream.com:14374</Url>
+        <Name>Pylos Live</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://37.187.79.153:5262/stream</Url>
+        <Name>Next</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://176.9.22.6:8664</Url>
+        <Name>Greek Zempekika Xasapika</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.radiojar.com/2uh8e4akb</Url>
+        <Name>Join Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://oasis.live24.gr/oasis8888</Url>
+        <Name>Oasis Fm 88</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.katsiris.net:8080/galaxy1011</Url>
+        <Name>Galaxy FM 101,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/ogdoo</Url>
+        <Name>Όγδοο</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8135</Url>
+        <Name>Donna Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.94.241.26:8000/stream</Url>
+        <Name>Intersonik</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://wm3.greekstream.net/driverfm</Url>
+        <Name>Driver Fm</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://legacy-100-ams.servers.mediacdn.com/justradio</Url>
+        <Name>Just Radio 93</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s5.onweb.gr:8002</Url>
+        <Name>Πέλλα FM 103,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8836</Url>
+        <Name>Life Radio 102,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://galaxy.live24.gr/galaxy9292</Url>
+        <Name>Galaxy 92</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://shout.cosmoradio.gr:8130</Url>
+        <Name>Κοσμοράδιο 95,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://178.32.72.194:8050/eroticos</Url>
+        <Name>Ερωτικός 94,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.greekradios.gr:4000</Url>
+        <Name>Rainbow 89</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://best.live24.gr/best1222</Url>
+        <Name>Best 92,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://78.129.143.157:8000/starfm</Url>
+        <Name>Star Fm 97,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.greekradios.gr:9060</Url>
+        <Name>Zoo 90,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://91.132.6.21:8003</Url>
+        <Name>Rock Fm 96,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://204.45.8.170:8037</Url>
+        <Name>NRG Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://99.198.109.147:80</Url>
+        <Name>Planet 100,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://174.36.237.66:8210</Url>
+        <Name>Music Society</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8251/live</Url>
+        <Name>Ράδιο Γρεβενά 101,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8812</Url>
+        <Name>Ραδιοκύματα 104</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8150</Url>
+        <Name>You Fm 100,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8068</Url>
+        <Name>SupeRadio 90,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8032</Url>
+        <Name>KissFm 96,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.kiss922.gr:59922</Url>
+        <Name>Kiss Fm 92,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8452</Url>
+        <Name>Ράδιο Κιβωτός 99,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://78.159.111.125:8092</Url>
+        <Name>Trust Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8054</Url>
+        <Name>Now Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s2.onweb.gr:8624</Url>
+        <Name>Άλφα Radio 96</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/arion</Url>
+        <Name>Arion Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://legacy-100-ams.servers.mediacdn.com/avanti977lamia</Url>
+        <Name>Avanti FM 97,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/pavleioslogos</Url>
+        <Name>Παύλειος Λόγος Ι.Μ. Βέροιας 90,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://livecy.onestreaming.com/astra</Url>
+        <Name>Astra</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://nitro.live24.gr/nitro4555</Url>
+        <Name>Nitro Radio 102,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://sportfm.live24.gr/sportfm7712</Url>
+        <Name>Nova Sport Fm 94,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8245</Url>
+        <Name>Sky Radio 99,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://sfera.live24.gr/sfera4132</Url>
+        <Name>Sfera 102,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8364</Url>
+        <Name>Choice</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://108.178.13.122:8139</Url>
+        <Name>Ράδιο Αμάρυνθος</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://62.75.177.12:8006</Url>
+        <Name>Rockgenesis.gr</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://66.90.103.144:8938</Url>
+        <Name>dRadio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s2.onweb.gr:8616</Url>
+        <Name>80smania</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://194.219.98.110:8010</Url>
+        <Name>Ράδιο Γράφημα</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://79.143.189.68:13262</Url>
+        <Name>Ernest Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://80.86.82.101:8140</Url>
+        <Name>More</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8002</Url>
+        <Name>Legend</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8047</Url>
+        <Name>Kλίμαξ Plus</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8077</Url>
+        <Name>Maroni</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/blacklemon</Url>
+        <Name>Black Lemon Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://159.253.149.12:8138</Url>
+        <Name>Ράδιο Καλάβρυτα</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8025/live</Url>
+        <Name>ΙΕΚ Δομή Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/vetofm</Url>
+        <Name>Veto Fm 91</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://radio.alfadramas.gr:9998</Url>
+        <Name>ALPHA News</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s2.onweb.gr:8600</Url>
+        <Name>Dream Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://www.dit-radio.gr:7500</Url>
+        <Name>D.I.T. Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/skyptolem</Url>
+        <Name>Sky Fm 99,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8522</Url>
+        <Name>Creta Planet</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/mousikokanali</Url>
+        <Name>Μουσικό Κανάλι 105,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8314</Url>
+        <Name>NRG Radio 89,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://dytikos.live24.gr/dytikos</Url>
+        <Name>Δυτικός</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://realfm.live24.gr/realfm</Url>
+        <Name>Real Fm 97,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://m1.onweb.gr/loud</Url>
+        <Name>Loud Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://85.17.30.90:9984</Url>
+        <Name>HotMix 88</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/aegeanant1</Url>
+        <Name>Ant1 Αιγαίο 105</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.duth.gr:8000/erakom</Url>
+        <Name>ΕΡΑ Κομοτηνής 98,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/kanali3</Url>
+        <Name>Κανάλι 3 104</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/panoramafm</Url>
+        <Name>Πανόραμα Fm 101,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8408</Url>
+        <Name>Studio 3 103,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8064</Url>
+        <Name>Gorgona K1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://85.17.75.143:80</Url>
+        <Name>Echoes</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8146</Url>
+        <Name>Radio Olympos</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://46.4.65.194:8039</Url>
+        <Name>YES! 91,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/fly889</Url>
+        <Name>Fly FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8340</Url>
+        <Name>Pop-I</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8074/live</Url>
+        <Name>Maelli Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/akousinlove</Url>
+        <Name>Akous. InLove</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://188.138.121.94:8036</Url>
+        <Name>Time Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.viastreaming.net:8720</Url>
+        <Name>Biscotto Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8189</Url>
+        <Name>Ρυθμός 98,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.115.44:9632</Url>
+        <Name>Silibre</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://188.40.95.16:7040</Url>
+        <Name>0211 Media</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.121.133:9088</Url>
+        <Name>Midnight Blues</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://85.17.238.96:8050</Url>
+        <Name>Ianos Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://free.freeshoutcast.com:6768</Url>
+        <Name>Hip Hop Radio 107,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://85.17.238.96:8050</Url>
+        <Name>Radio Art 1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.radio-sense.com:8035</Url>
+        <Name>Radio Sense</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eu02.egihosting.com:9108</Url>
+        <Name>Heat Radio 88,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://www.cancelled.gr:8015/cancelled.mp3</Url>
+        <Name>Radio Cancelled</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.viastreaming.net:7370</Url>
+        <Name>Skordo Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://159.253.149.12:8188</Url>
+        <Name>Solid Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://147.102.216.3:8000/live</Url>
+        <Name>PolyteXneio FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://188.40.131.14:6004</Url>
+        <Name>CosiRadio Int'l Station</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stokokkino.gr:8000/stream</Url>
+        <Name>Sto Kokkino 105,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8226</Url>
+        <Name>Top Fm 96,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://159.253.149.12:9300</Url>
+        <Name>RadioIn</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/radiosiatistas</Url>
+        <Name>Ράδιο Σιάτιστας</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/nautilusradio</Url>
+        <Name>Nautilus Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>mmsh://a714.l649552713.c6495.g.lm.akamaistream.net/D/714/6495/v0001/reflector:52713</Url>
+        <Name>Music 89,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/latofm</Url>
+        <Name>Λατώ Fm 103,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/ermionida</Url>
+        <Name>Ράδιο Ερμιονίδα 104,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://radio.e-pro.gr:9006</Url>
+        <Name>Viva 88,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://178.21.22.213:9650</Url>
+        <Name>Smooth Traxx</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://vm.motionfm.com//motionone_free</Url>
+        <Name>MotionFm Deep</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://bestgreek.info:8104</Url>
+        <Name>A100 107,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://enleuko.live24.gr/enleuko877</Url>
+        <Name>Εν Λευκώ 87,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://178.32.72.194:8060/rthes</Url>
+        <Name>Ράδιο Θεσσαλονίκη 94,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://diesi.live24.gr/diesi1013</Url>
+        <Name>Δίεση 101,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/thepopfm</Url>
+        <Name>The Pop Fm 98,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://sc2.greekstream.net:4008</Url>
+        <Name>Σταθμός</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://149.5.240.22/WR-GR-WR71</Url>
+        <Name>Energy Athens 88,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.waveradio.gr:8000/listen</Url>
+        <Name>Wave Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://37.187.90.121:3226</Url>
+        <Name>Epic Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://hotsoft.ws:8086/talosfm?.wma</Url>
+        <Name>Τάλως FM 88,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8005/stream</Url>
+        <Name>Loco Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://uk3-vn.mixstream.net:8258</Url>
+        <Name>Κέντρο Καρδιάς 95</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.camstreams.com/misconfig.wmv</Url>
+        <Name>Σφηνάκια FM 97,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/nikolaou</Url>
+        <Name>Νικολάου Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8380</Url>
+        <Name>Ράδιο Καλλονή</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/arionlaikos</Url>
+        <Name>Arion Λαϊκός</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8115</Url>
+        <Name>SRadio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://64.237.33.50:7026</Url>
+        <Name>Μελωδία</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://www.elgr.info:8112</Url>
+        <Name>Energy 101</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8414</Url>
+        <Name>Πρίσμα FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8264</Url>
+        <Name>Ι.Μ. Φθιώτιδας 89,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/radioactive</Url>
+        <Name>Radio Active 91,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/aeolos</Url>
+        <Name>Αίολος 92,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8462</Url>
+        <Name>Dream Fm 103,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8520</Url>
+        <Name>Ραδιοφωνία Αγιάς 94,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://78.46.66.215:8002</Url>
+        <Name>Nrg Fm 95</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.duth.gr:8000/underground</Url>
+        <Name>Underground Radio 100,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://radio.greekstream.net/ekrixi</Url>
+        <Name>Έκρηξη Fm 99,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8420</Url>
+        <Name>Best Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8294</Url>
+        <Name>Power FM 92,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.powerfm932.gr/powerfm932</Url>
+        <Name>Power Fm 93,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/rythmos943</Url>
+        <Name>Ρυθμός 94,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://ola.isolservers.com:8300</Url>
+        <Name>Ola Fm 91,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.greekradios.gr:8050</Url>
+        <Name>Παλμός 99,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.121.133:8178</Url>
+        <Name>Starwalkers Radio Classic</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.all-host.gr:9034</Url>
+        <Name>Ράδιο Μεγαλόνησος 89,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8078</Url>
+        <Name>Ράδιο Λευκάδα 88,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/akousjazzin</Url>
+        <Name>Akous. JazzIN</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://shoutcast.24radio.gr:8036</Url>
+        <Name>Kiss Fm 100,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/diavlosrodopis</Url>
+        <Name>Δίαυλος Ροδόπης 92,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8422</Url>
+        <Name>Pop Fm 102,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://broadcast.hol.gr/mojoradio</Url>
+        <Name>Mojo Radio 107,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8352</Url>
+        <Name>YouSmile</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://listen.radionomy.com/studio-leukakia</Url>
+        <Name>Studio Leukakia</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream2.greekradios.gr:8040</Url>
+        <Name>Καραμέλα</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://ice.onestreaming.com/akouspalko</Url>
+        <Name>Akous. Πάλκο</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8430</Url>
+        <Name>BOTOX Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s5.onweb.gr:8020</Url>
+        <Name>Prime Radio 100,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://hotsoft.ws:8086/mk</Url>
+        <Name>Μουσικό Κανάλι 101,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/athensparty</Url>
+        <Name>Athens Party</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8075</Url>
+        <Name>Ενημέρωση 92,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/mixgrevena</Url>
+        <Name>Mix Fm 102,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/lefkada</Url>
+        <Name>Studio Λευκάτας 90,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eu1.fastcast4u.com:3688</Url>
+        <Name>Δίκτυο FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://europe4.nfs.gr:11000</Url>
+        <Name>Radio Marconi</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://streaming.radionomy.com/Top-Secret-Web-Radio</Url>
+        <Name>Top Secret Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://shout.streamwithq.gr:4052</Url>
+        <Name>Ελληνικός 88,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s5.onweb.gr:8498</Url>
+        <Name>Ραδιόφωνο 108</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://188.40.131.14:8022</Url>
+        <Name>Ράδιο Αμφισσα 104,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8532</Url>
+        <Name>Γλέντι</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8142</Url>
+        <Name>Mini FM 107,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://78.159.111.125:8042</Url>
+        <Name>Trance Athens</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8286</Url>
+        <Name>ΛΑΚΚΑ ΣΟΥΛΙ Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://ice.onestreaming.com/athenspartyplus</Url>
+        <Name>Athens Party Plus+</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://shout.streamwithq.gr:4044</Url>
+        <Name>Fly Fm 95,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8056</Url>
+        <Name>Radio Star 94,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8452</Url>
+        <Name>Nrg</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://fm1.teicrete.gr:8000/live</Url>
+        <Name>Studio Fm1 105,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.121.133:8036</Url>
+        <Name>Wasteland</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://radio.radionova.gr:8000/kritorama</Url>
+        <Name>Κρητόραμα FM 97,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/poligiros</Url>
+        <Name>Δημοτικό Ραδιόφωνο Πολύγυρου 90,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://94.229.74.195:8004</Url>
+        <Name>Le Grec</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.caststream.net:8070</Url>
+        <Name>Cosmos Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://173.193.219.163:8616/stream</Url>
+        <Name>Satisfactory</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://176.9.39.43:7000</Url>
+        <Name>Memories Web Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://188.40.75.77:9200</Url>
+        <Name>Μουσικές Ebeerίες</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8274</Url>
+        <Name>Revival</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8014</Url>
+        <Name>Open Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://majestic.wavestreamer.com:5641</Url>
+        <Name>AntiCrisis</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://178.21.169.118:8002/stream</Url>
+        <Name>Mansta Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.katsiris.net:7500</Url>
+        <Name>Αστέρας Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s4.onweb.gr:8434</Url>
+        <Name>TechHead Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://78.46.46.214:7048</Url>
+        <Name>Music Art Club</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://www.tuningradio.gr:8000</Url>
+        <Name>Tuning Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8006</Url>
+        <Name>Χρόνος 87,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://50.7.158.42:8117</Url>
+        <Name>Ράδιο Πρίσμα</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8010</Url>
+        <Name>Παλμός 105,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://184.154.10.83:8390</Url>
+        <Name>Depressive Metal Rock Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.116.16.246:8222</Url>
+        <Name>Play Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://ss-wms-8.streamsolutions.co.uk/tligradio_gr</Url>
+        <Name>Αληθινή Εν Θεώ Ζωή</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8213</Url>
+        <Name>Super Radio 99,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://68.168.103.13:8280</Url>
+        <Name>B.F.M. iRadio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://a839.l14625156838.c146251.e.lm.akamaistream.net/D/839/146251/v0001/reflector:56838</Url>
+        <Name>OFF Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://176.9.39.43:7008</Url>
+        <Name>Μελωδίες Web Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8518</Url>
+        <Name>Ράδιο Απόλλων</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/radionetlamia</Url>
+        <Name>Radio Net 101,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://dromos898.live24.gr/dromos898</Url>
+        <Name>Δρόμος 89,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://legacy-100-ams.servers.mediacdn.com/radiojukebox?95430816eded9c5d097e7456816bc09c</Url>
+        <Name>JukeBox</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.caststream.net:8044</Url>
+        <Name>Πειραϊκή Εκκλησία 91,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8052</Url>
+        <Name>Athletic 104,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://147.27.23.40:8000</Url>
+        <Name>Radio Ενταση 93,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8081</Url>
+        <Name>Libero 107,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8171</Url>
+        <Name>Venus 105,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8033</Url>
+        <Name>Live fm 89,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/planetradio</Url>
+        <Name>Radio Planet 90,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://broadcast.hol.gr/cityfm</Url>
+        <Name>City Fm 103,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/rythmos1044</Url>
+        <Name>Ρυθμός 104,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8834</Url>
+        <Name>Ράδιο Μετέωρα</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://iradio.phaseradio.gr:8035/phaseradio</Url>
+        <Name>Phase Radio 87,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://188.121.60.170:6002</Url>
+        <Name>Gaga Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/mouspalmos945</Url>
+        <Name>Μουσικός Παλμός 94,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/diastasis</Url>
+        <Name>Διάστασις</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/sky913fm</Url>
+        <Name>Sky FM 91,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream-push2.live24.gr/metrofm1012xalkida</Url>
+        <Name>Metro FM 101,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://netradio.live24.gr/heart939</Url>
+        <Name>Heart 93,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://relay4.mindradio.gr:80/live</Url>
+        <Name>Mind Radio Conn-X</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://broadcast.hol.gr/kanali20</Url>
+        <Name>Κανάλι 20 107,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8022</Url>
+        <Name>Ανατολικός Fm 95,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.121.133:8850</Url>
+        <Name>Paradise Radio 104,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://101fm.dyndns.tv:8002</Url>
+        <Name>Radio 1 101</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://5.175.8.84:8100</Url>
+        <Name>Ελληνικό Ράδιο Ομογένειας 3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8412</Url>
+        <Name>Εύρυτος FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8416</Url>
+        <Name>01 Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://195.251.123.136:1351/esradio.mp3</Url>
+        <Name>European School Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://groove.wavestreamer.com:4396</Url>
+        <Name>99,6 Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/lampsifmcrete</Url>
+        <Name>Lampsi Fm 92,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.115.44:9578</Url>
+        <Name>Astros Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://www.gointernet.gr:8007</Url>
+        <Name>Dolce Radio 89,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://livecy.onestreaming.com/sferacy</Url>
+        <Name>Sfera</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.greekradios.gr:2042</Url>
+        <Name>Velvet 96,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/novamusic</Url>
+        <Name>Nova Radio 93,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/radiokimata</Url>
+        <Name>Ραδιοκύματα 102,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8185</Url>
+        <Name>Δημοτικό Τρίπολης 91,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://wm3.greekstream.net/kalamariafm?.wma</Url>
+        <Name>Καλαμαριά FM 101,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8211</Url>
+        <Name>Arion Kids</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8298</Url>
+        <Name>Capital 97,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8103</Url>
+        <Name>Ραδιοφωνία Κισσάβου 97,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/kyriesmou</Url>
+        <Name>Κυρίες Μου</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://pemptousia2.primcast.com:5824</Url>
+        <Name>pemptousia.fm</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://shout.streamwithq.gr:4038</Url>
+        <Name>Ράδιο Aλφα 96</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://a1933.l3271921932.c32719.g.lm.akamaistream.net/D/1933/32719/v0001/reflector:21932</Url>
+        <Name>ΕΡΑ3 Γ' Πρόγραμμα</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8237/live</Url>
+        <Name>Radio 984</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.athenswinder.com:8000/athenswinder</Url>
+        <Name>Athens Winder Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8800</Url>
+        <Name>Star Fm Κέρκυρα 88,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/christianity</Url>
+        <Name>Χριστιανισμός</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://174.142.22.74:8281</Url>
+        <Name>Monkey Webradio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://starradio.no-ip.biz:2380</Url>
+        <Name>Star Radio 106,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://69.175.39.146:8348</Url>
+        <Name>Μάνα Ελλάδα</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://uk1-vn.mixstream.net:9876</Url>
+        <Name>Ακρόαμα 97,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.myloveradio.com:9914</Url>
+        <Name>Alter2you Greek</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://80.241.210.45:8004</Url>
+        <Name>CNG</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://162.13.25.174/u0r4t3hv87db.mp3</Url>
+        <Name>Το Ραδιόφωνο</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://46.165.220.22:8082/stream</Url>
+        <Name>Street Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/radioelassona</Url>
+        <Name>Radio Ελασσώνα 88,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://rso.isolservers.com:8200</Url>
+        <Name>RSO 91,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://93.104.213.209:8000/live</Url>
+        <Name>B&#8211;Side</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://144.76.84.8:8048</Url>
+        <Name>Ι.Μ. Αιτωλίας κ Ακαρνανίας</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://ice.onestreaming.com/akousbreeze</Url>
+        <Name>Akous. Breeze</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://109.169.26.78:9294</Url>
+        <Name>Mood Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://173.255.135.8:9380</Url>
+        <Name>Venus</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://rockradio.gr:1111</Url>
+        <Name>Rock Radio 104,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8856</Url>
+        <Name>Ράδιο Κόσμος 100</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream2.proradio.gr:8004/anemos</Url>
+        <Name>Αγρίνιο FM 93,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://193.164.131.52:8000</Url>
+        <Name>Pirate Radio 91</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8838</Url>
+        <Name>Maximum FM 93,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8032</Url>
+        <Name>D-Code 96,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/just964</Url>
+        <Name>Just Radio 96,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.81.168:8739/stream</Url>
+        <Name>M-Word Web Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/greek4u</Url>
+        <Name>GR4U</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/radiosamos</Url>
+        <Name>Ράδιο Σάμος 102</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/anemosfm</Url>
+        <Name>Ανεμος 95,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/blackman</Url>
+        <Name>BlackMan</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://46.167.172.118:8800</Url>
+        <Name>E.R.O.radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8324</Url>
+        <Name>Ρόδον Fm 95</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8524</Url>
+        <Name>International 107,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/velvetfm</Url>
+        <Name>Velvet.Fm</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.121.133:8132</Url>
+        <Name>Radio Play</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8500</Url>
+        <Name>Αρμονία</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://62.1.195.86:2281</Url>
+        <Name>Χιακή Φωνή 90</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8093</Url>
+        <Name>Shaker Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://plaisioradio.live24.gr/plaisioradio</Url>
+        <Name>Plaisio Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s5.onweb.gr:8030</Url>
+        <Name>Energy Radio 88,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://shout.streamwithq.gr:4064</Url>
+        <Name>Γαύδος Fm 88,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8042</Url>
+        <Name>926FM (ΔΗΜΟΣ ΣΟΥΦΛΙΟΥ) 92,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://shout.plusradio.gr:8120</Url>
+        <Name>Plus Radio 102,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8284</Url>
+        <Name>W Music Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://159.253.149.12:8038</Url>
+        <Name>Cosmos FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8012</Url>
+        <Name>Sferikos 99,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://uk3-vn.mixstream.net:8256</Url>
+        <Name>Metro Radio 89,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8224</Url>
+        <Name>Οδός Καψούρας</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stereo.wavestreamer.com:8412/</Url>
+        <Name>Εύριπος FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8444/stream</Url>
+        <Name>Waterland Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8272</Url>
+        <Name>Fly Radio 89,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://159.253.149.12:8010</Url>
+        <Name>Scream</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://46.4.65.194:8011</Url>
+        <Name>Style Fm 89,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://144.76.136.24:7143</Url>
+        <Name>Sold-Out Events Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8512</Url>
+        <Name>TNT BET</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://streaming.radionomy.com/Hot40Music</Url>
+        <Name>Hot40Music.com</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/soundelectronic</Url>
+        <Name>Sound Electronic</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://radiogamma.live24.gr/radiogamma</Url>
+        <Name>Ράδιο Γάμμα 94</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/alexandria</Url>
+        <Name>Ράδιο Αλεξάνδρεια 97,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://95.211.4.241:8004</Url>
+        <Name>Bravo 89,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://94.23.159.115:8088</Url>
+        <Name>Safari 104,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://legacy-100-ams.servers.mediacdn.com/metrovolos882</Url>
+        <Name>Μετρό FM 88,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://193.34.144.63:61263</Url>
+        <Name>Star FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://78.46.37.77:8001/stream</Url>
+        <Name>Radio Evros 97,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8019</Url>
+        <Name>Μοναχική Διακονία 87,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://sportfm-cyprus.live24.gr/sportfm-cyprus</Url>
+        <Name>SuperSport</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://37.187.90.121:3080</Url>
+        <Name>Record On</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://95.211.4.241:8006</Url>
+        <Name>Island Fm 88,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/city93</Url>
+        <Name>City 93</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8418</Url>
+        <Name>Arena Sports</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/hitfm1035</Url>
+        <Name>Hit FM 103,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live-stream.all-host.gr:8316</Url>
+        <Name>Ήχος Fm 94,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8010</Url>
+        <Name>Θράκη Fm 99,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8464</Url>
+        <Name>Ρυθμός 94,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://radio.radionova.gr:8000/lamia-fm-1</Url>
+        <Name>Λαμία FM 1 96,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://psychoradio.servemp3.com</Url>
+        <Name>Psycho Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://listen.radionomy.com/eyeonyou</Url>
+        <Name>Eyeonyou Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/paradiseradio</Url>
+        <Name>Paradise 90,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/ellinadikofm</Url>
+        <Name>Ελληνάδικο FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8059/stream</Url>
+        <Name>Akous. My Classic</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://66.55.144.67:8029/stream</Url>
+        <Name>Radio Maga</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/sport1</Url>
+        <Name>Sports1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://95.211.7.35:8000</Url>
+        <Name>Συκοφάντης Μπαστούνι</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://livecy.onestreaming.com/zenith</Url>
+        <Name>Ζενίθ</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8166</Url>
+        <Name>Ράδιο Εντεχνος</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://hotfm.live24.gr/shock</Url>
+        <Name>Hot Fm</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8300</Url>
+        <Name>Ερωτιάρης</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://162.13.25.174/ktuq17mkb.mp3</Url>
+        <Name>MuZic Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s4.onweb.gr:8850</Url>
+        <Name>Larissa DeeJay</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s4.onweb.gr:8892</Url>
+        <Name>Ρυθμός</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/apopsi</Url>
+        <Name>Ράδιο Αποψη</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://listen.radionomy.com/psychiatry-online-radio</Url>
+        <Name>Psychiatry Online Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://hroma1058thess.live24.gr/hroma1058thess</Url>
+        <Name>Χρώμα</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://streaming204.radionomy.com/Error-Radio</Url>
+        <Name>Error Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s4.onweb.gr:8832</Url>
+        <Name>Ρυθμός</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s15.myradiostream.com:14662</Url>
+        <Name>Βορεινή Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8238</Url>
+        <Name>Sfera 94,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8014/live</Url>
+        <Name>Bleep Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/toxotis</Url>
+        <Name>Τοξότης 96,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8031</Url>
+        <Name>Power FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s5.onweb.gr:8504</Url>
+        <Name>Φάρος Fm 104</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://174.36.237.66:9878</Url>
+        <Name>Extreme Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://www.ghostradio.gr/world-128</Url>
+        <Name>Ghost Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://sc.greekstream.net:4024</Url>
+        <Name>Camelot 100,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://85.17.174.142:10300</Url>
+        <Name>Μουσικό Πανόραμα 100,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://85.25.139.27:9100</Url>
+        <Name>ΟΞΥΓΟΝΟ 106+6 106,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8828</Url>
+        <Name>ΡΑΔΙΟ ΕΝΕΡΓΕΙΑ 106,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://50.7.243.50:8127</Url>
+        <Name>Energy 93,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8400</Url>
+        <Name>Υπάρχω 101,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s5.onweb.gr:8502</Url>
+        <Name>Δίαυλος Καρδίτσας</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/erk</Url>
+        <Name>Ελεύθερη Ραδιοφωνία Κεφαλλονιά 93,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8131</Url>
+        <Name>Status 94,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8400</Url>
+        <Name>RaceRadio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8152/stream</Url>
+        <Name>Action Radio 98,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream-push2.live24.gr/dromoscyprus</Url>
+        <Name>Δρόμος</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://ice.onestreaming.com/athenspartyrnb</Url>
+        <Name>Athens Party RNB</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://72.167.42.69:88/radiomartyria</Url>
+        <Name>Ράδιο Μαρτυρία</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8266</Url>
+        <Name>Hxo Fm 102,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s4.onweb.gr:8468</Url>
+        <Name>Ράδιο Λέχοβο 97,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/astraradio</Url>
+        <Name>Astra Radio 93,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/magiafm</Url>
+        <Name>Magia Fm</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://46.165.195.133:8145</Url>
+        <Name>Πολιτεία FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://betradio.live24.gr/betradio</Url>
+        <Name>Bet Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://activeradio.gr:8000/activemp3</Url>
+        <Name>Active Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.121.133:9538</Url>
+        <Name>DM Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.myip.gr:8034</Url>
+        <Name>Capital FM 107</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/hitfmcy</Url>
+        <Name>Hit Fm</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://99.198.118.250:8138/live</Url>
+        <Name>Evolution Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8820</Url>
+        <Name>Νέο Ραδιόφωνο 97,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://89.40.221.212:26800</Url>
+        <Name>My FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream-push2.live24.gr/olymposfm-345</Url>
+        <Name>Ολυμπος Fm</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.myloveradio.com:9912</Url>
+        <Name>Alter2you International</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://99.198.118.250:8022</Url>
+        <Name>Music Box 106,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://boulevart.com.gr:8000</Url>
+        <Name>Cookie Rock</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/arhagelos</Url>
+        <Name>Αρχάγγελος 94,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://ant1.live24.gr/ant1?b30cfd71ea09d00f53b8757c20491e34</Url>
+        <Name>Ant1 Radio 97,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://rythmos.live24.gr/rythmos</Url>
+        <Name>Ρυθμός 94,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://78.46.66.215:8005</Url>
+        <Name>Sok Fm 104,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://imagine.1stepstream.com:8000/live</Url>
+        <Name>Imagine 89,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://topmelody1.selfip.net:8000</Url>
+        <Name>Top Melody 104,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/radio5</Url>
+        <Name>Radio 5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8123</Url>
+        <Name>Μουσικό Κανάλι Ελασσόνας 107,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://75.125.224.82:8000</Url>
+        <Name>Mango Radio Urban</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://907ioannina.live24.gr/907ioannina</Url>
+        <Name>Best</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/imargol1052</Url>
+        <Name>Ι.Μ. Αργολίδος 105,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://shout.streamwithq.gr:4138</Url>
+        <Name>ΑλήΘεια Fm 96,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://188.40.131.14:9978</Url>
+        <Name>Magic FM Αγρίνιο</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.115.44:8262</Url>
+        <Name>Mr Soul</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://shoutcast.24radio.gr:8064</Url>
+        <Name>Cool Fm 90,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8346</Url>
+        <Name>Eurovision.Fm</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://player.rockharadio.com:8028</Url>
+        <Name>Rockharadio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://orange.live24.gr/orange9320</Url>
+        <Name>Happy Radio 93,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://loveradio.live24.gr/loveradio-1000</Url>
+        <Name>Love Radio 97,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s7.onweb.gr:8542</Url>
+        <Name>Λαϊκός</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://drs953.live24.gr/drs953?59c9e54a76f8bfebbc640262fc16b7a7</Url>
+        <Name>DRS 95,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://webradio.musicheaven.gr:9850</Url>
+        <Name>Music Heaven</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://radio1.discomaniaradio.com:7030</Url>
+        <Name>Discomania</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s4.onweb.gr:8492</Url>
+        <Name>Kiss</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://radio.webmax.gr:8005/stream.mp3</Url>
+        <Name>Ράδιο Ένα</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/club937</Url>
+        <Name>Club FM 93,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/xylokastro</Url>
+        <Name>Life Fm 103,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8219/stream</Url>
+        <Name>e-Pontos</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:9000</Url>
+        <Name>BOX Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8088</Url>
+        <Name>Ράδιο Πόλις 99,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://media15.internet.gr/dreamfm</Url>
+        <Name>Dream FM 91</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://155.207.18.114:8000/1431med</Url>
+        <Name>1431 AM 1431</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8334</Url>
+        <Name>Polis 102,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8098</Url>
+        <Name>Πάρος Fm 98,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>mmsh://a1251.l4434923250.c44349.g.lm.akamaistream.net/D/1251/44349/v0001/reflector:23250</Url>
+        <Name>Freedom Fm</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/elpar</Url>
+        <Name>Ελληνικό Παραδοσιακό</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8336</Url>
+        <Name>99fm / Radio 1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8173</Url>
+        <Name>City Fm 100</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://a1202.l7083147201.c70831.g.lm.akamaistream.net/D/1202/70831/v0001/reflector:47201</Url>
+        <Name>Παλμός 96,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/orthodoxia</Url>
+        <Name>Ορθοδοξία και Παράδοση 103</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.radioalphaomega.com:4006</Url>
+        <Name>Ράδιο Α-Ω 90,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/methorios</Url>
+        <Name>Μεθόριος 96</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8056</Url>
+        <Name>Ράδιο Φάρος 92,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://prismavirus.live24.gr/prismavirus1000</Url>
+        <Name>Πρίσμα 93,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.duth.gr:8000/omorfipoli-hifi</Url>
+        <Name>Omorfi Poli 89,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://soho.wavestreamer.com:5669/Live</Url>
+        <Name>DreamSound</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://m1.onweb.gr/1055rock</Url>
+        <Name>1055 Rock 105,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://streamx1.greekradios.gr:8000</Url>
+        <Name>Metropolis 95,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://a1232.l3271935231.c32719.g.lm.akamaistream.net/D/1232/32719/v0001/reflector:35231</Url>
+        <Name>ΕΡΑ Κόσμος 93,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://a1367.l3271923366.c32719.g.lm.akamaistream.net/D/1367/32719/v0001/reflector:23366</Url>
+        <Name>ΕΡΑ Φιλία</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8099</Url>
+        <Name>Astro Fm 96,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://a1758.l3271933757.c32719.g.lm.akamaistream.net/D/1758/32719/v0001/reflector:33757</Url>
+        <Name>ΕΡΑ3 Α΄ Πρόγραμμα 102</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/radioionia</Url>
+        <Name>Ράδιο Ιωνία 105,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://citycom.serverroom.us:6762</Url>
+        <Name>Club's Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://85.17.30.90:9996</Url>
+        <Name>Navagia.gr</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://radio.zbutsam.net:30570</Url>
+        <Name>Zbutsam</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://87.117.198.140:8018</Url>
+        <Name>West Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://174.36.237.66:13010</Url>
+        <Name>SAM Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8054</Url>
+        <Name>Διόνυσος FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8064</Url>
+        <Name>Spice Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://66.90.103.144:8990</Url>
+        <Name>Kiss FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://46.4.82.243:8000</Url>
+        <Name>Arcadia</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://listen.radionomy.com/peripou-web-radio</Url>
+        <Name>PERIPOU Web Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://91.132.6.21:8001</Url>
+        <Name>Athens DeeJay 95,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://server1.radiojar.com/whrs03eg80u.mp3</Url>
+        <Name>Elixir Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://streamyourdream.org:8042/imd</Url>
+        <Name>Ορθόδοξη Μαρτυρία</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/mesogios</Url>
+        <Name>Μεσόγειος 105,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://193.227.111.111:8002</Url>
+        <Name>Radio Family</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://smartfm.serverroom.us:8030</Url>
+        <Name>Smart Fm 100,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8215</Url>
+        <Name>Πάνος Γεραμάνης</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8028</Url>
+        <Name>Κύμα Fm 90,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://78.129.159.205:8048</Url>
+        <Name>Ι.Μητρόπολις Πατρών 88,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/alpha981</Url>
+        <Name>Alpha 98,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.viastreaming.net:8670</Url>
+        <Name>Σφήνα Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s7.onweb.gr:8554</Url>
+        <Name>Παλμός 95</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://75.126.64.105:8152</Url>
+        <Name>Radio City 102,8</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s8.onweb.gr:8706</Url>
+        <Name>Fresh FM 92,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://46.4.65.194:8017</Url>
+        <Name>Electrocaine</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s5.onweb.gr:8418</Url>
+        <Name>Σοχός Fm 88,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://sentrafm.live24.gr/sentrafm</Url>
+        <Name>Sentra Fm 103,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://178.33.248.236:8006</Url>
+        <Name>Fun Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://85.17.30.90:8044</Url>
+        <Name>Star 95,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s6.onweb.gr:8080</Url>
+        <Name>Ι.Μ. Παροναξίας</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/fm1076</Url>
+        <Name>Radio 107,6 FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/koziani</Url>
+        <Name>Internet Radio Koziani</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/super</Url>
+        <Name>Super FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.81.168:8748</Url>
+        <Name>Ιωάννινα Deejay 89,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://streamyourdream.org:8000/perfect</Url>
+        <Name>Perfect Radio 103,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8382</Url>
+        <Name>Radio North</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://208.43.115.44:8138</Url>
+        <Name>Cannibal Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.radiojar.com/trollradio-gr.mp3</Url>
+        <Name>Troll Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/antonisradio</Url>
+        <Name>Antonis Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/ydrogeios</Url>
+        <Name>Υδρόγειος 106,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.viastreaming.net:7430</Url>
+        <Name>Cafe Έντεχνον</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8432</Url>
+        <Name>Ιερά Αρχιεπισκοπή Κρήτης 99,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8105</Url>
+        <Name>Original 94,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8140</Url>
+        <Name>Ant1 Fm</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/jetaime</Url>
+        <Name>AM Je t'aime 93,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/ant1santorinis</Url>
+        <Name>Radio Faros 105,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8436</Url>
+        <Name>Ράδιο ΔΕΘ 104,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/style100</Url>
+        <Name>Style 100</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://188.40.131.14:9988</Url>
+        <Name>Ραδιόφωνο Μεσολογγίου 92</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8496</Url>
+        <Name>FREE Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://50.22.217.113:21430</Url>
+        <Name>Focus</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://46.227.60.32:8104</Url>
+        <Name>Ράδιο Μετέωρα «Ο Αναπαυσάς»</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8360</Url>
+        <Name>Livingroom</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8498</Url>
+        <Name>Ι.Μ. Καστοριάς</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://shout.streamwithq.gr:4168</Url>
+        <Name>Ράδιο Πρέβεζα 93</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://78.46.37.77:8000/stream</Url>
+        <Name>MusicPlay</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/sport103</Url>
+        <Name>Sport 103</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://sc2.greekstream.net:4012</Url>
+        <Name>Ράδιο Έκφραση 92,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://kissfm.live24.gr/kiss2111</Url>
+        <Name>Kiss Fm 92,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://85.17.30.90:8078</Url>
+        <Name>River FM 106,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://radiofeeds1.mediabox.gr/life916</Url>
+        <Name>Life FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8426</Url>
+        <Name>Άθως</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://174.36.237.66:9450</Url>
+        <Name>Ράδιο Ηπειρος 94,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://70.38.101.150:8012</Url>
+        <Name>Fever Radio 106,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://vimafm.live24.gr/vimafm</Url>
+        <Name>Βημα Fm 99,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://rock.istoikona.com/kiss</Url>
+        <Name>Kiss Gold</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://legacy-100-ams.servers.mediacdn.com/maxfm93-4-patra</Url>
+        <Name>Max FM 93,4</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8129</Url>
+        <Name>Μελωδία Fm 88</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://85.17.238.96:8060</Url>
+        <Name>Radio Art 2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/klikfm</Url>
+        <Name>Klik FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/lgr</Url>
+        <Name>London Greek Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.dnsgb.net:8012</Url>
+        <Name>Κανάλι Εξι</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://livecy.onestreaming.com/kiss</Url>
+        <Name>Kiss</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://livecy.onestreaming.com/logos</Url>
+        <Name>Λόγος Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/mixfm</Url>
+        <Name>MixFm</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://livecy.onestreaming.com/rockfm</Url>
+        <Name>Rock FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://livecy.onestreaming.com/radioproto</Url>
+        <Name>Ράδιο Πρώτο</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/notesserres</Url>
+        <Name>Nότες FM 106</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/politia</Url>
+        <Name>Πολιτεία 90,7</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://99.198.118.250:8008/live</Url>
+        <Name>Radio Must Athens</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/avanti</Url>
+        <Name>Avanti Fm 98,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8125</Url>
+        <Name>Μήλος 108 108</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://www.iek-akmi.gr:9998</Url>
+        <Name>ΑΚΜΗ Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://94.100.18.210:8022</Url>
+        <Name>Flippinradio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://derti.live24.gr/derty1000</Url>
+        <Name>Derti 98,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://streaming.multiserver.gr:8026</Url>
+        <Name>Αθλητικός</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/super88</Url>
+        <Name>Super 88</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8464</Url>
+        <Name>Kick Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s4.onweb.gr:8062</Url>
+        <Name>Energy Web Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://178.63.80.9:9978</Url>
+        <Name>Anyway Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8460</Url>
+        <Name>Ράδιο Aρτα</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8860</Url>
+        <Name>Stylida Fm 94,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s1.onweb.gr:8096</Url>
+        <Name>Ράδιο Κυπαρισσία 93,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://legacy-100-ams.servers.mediacdn.com/enaplus</Url>
+        <Name>Χρώμα 98,5</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/makistia</Url>
+        <Name>Ράδιο Μακιστία 98,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://89.40.221.213:36800</Url>
+        <Name>My 80s</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://www.parearadio.gr:8000</Url>
+        <Name>Parea Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s7.onweb.gr:8552</Url>
+        <Name>My Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://golive.onestreaming.com/arion2</Url>
+        <Name>Arion 2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8280</Url>
+        <Name>Ηχώ FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/russianwave</Url>
+        <Name>RussianWave</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://iservsp.mediacdn.com:80/athinaradio</Url>
+        <Name>Παραπολιτικά FM</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/deltaradio</Url>
+        <Name>IEK Delta Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://mediaserver.mad.tv:33333/madradio</Url>
+        <Name>Mad Radio 106,2</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8438</Url>
+        <Name>Λέσχη 97,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://46.4.65.194:8025</Url>
+        <Name>Star Fm 92,9</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.myip.gr:8020</Url>
+        <Name>Cosmos Fm 92,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://www.streamyourdream.org:8000/urbanradio</Url>
+        <Name>Urban Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://listen.radionomy.com/midnight-events-radio.m3u</Url>
+        <Name>Midnight Events Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8079</Url>
+        <Name>Bangee</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://s3.onweb.gr:8454</Url>
+        <Name>Super FM 89,6</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://netradio.live24.gr/gingeradio</Url>
+        <Name>GingeRadio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://sc2.greekstream.net:4010</Url>
+        <Name>Cool Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://legacy-100-ams.servers.mediacdn.com/mea-limnos</Url>
+        <Name>Μ.Ε.Α.Σ Ράδιο Λήμνος 98</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/bestmytilini</Url>
+        <Name>Best Fm 98,1</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://72.55.146.84:8020</Url>
+        <Name>Siera FM 105,3</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://eco.onestreaming.com:8438</Url>
+        <Name>Holiday Radio</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://174.36.237.66:8368</Url>
+        <Name>Δίαυλος</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://live.onestreaming.com/armonia</Url>
+        <Name>Αρμονία</Name>
+    </RadioStation>
+    <RadioStation>
+        <Url>http://stream.myip.gr:8054</Url>
+        <Name>Venus 91,1</Name>
+    </RadioStation>
+</RadioStations>
